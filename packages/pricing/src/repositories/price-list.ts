@@ -6,7 +6,8 @@ import {
   LoadStrategy,
 } from "@mikro-orm/core"
 
-import { RepositoryTypes } from "@types"
+import { RepositoryTypes } from "../types"
+
 import { PriceList } from "@models"
 import { SqlEntityManager } from "@mikro-orm/postgresql"
 
