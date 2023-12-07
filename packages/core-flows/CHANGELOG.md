@@ -1,5 +1,15 @@
 # @medusajs/core-flows
 
+## 0.0.3
+
+### Patch Changes
+
+- [#5725](https://github.com/medusajs/medusa/pull/5725) [`85cda7ce3`](https://github.com/medusajs/medusa/commit/85cda7ce3754e2a8ecb207f29d462a9bcd442ade) Thanks [@adrien2p](https://github.com/adrien2p)! - slightly improve create cart workflow
+
+- Updated dependencies [[`c4deeee48`](https://github.com/medusajs/medusa/commit/c4deeee481399f5371d773173e20dc149d502e20), [`8f25ed8a1`](https://github.com/medusajs/medusa/commit/8f25ed8a10fe23e9342dc3d03545546b4ad4d6da)]:
+  - @medusajs/modules-sdk@1.12.5
+  - @medusajs/utils@1.11.2
+
 ## 0.0.2
 
 ### Patch Changes
